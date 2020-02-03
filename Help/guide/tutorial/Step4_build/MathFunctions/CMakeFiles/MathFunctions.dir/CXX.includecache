@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/todd.a.flanders/common/workspaces/C/CMake/Help/guide/tutorial/Step4/MathFunctions/MathFunctions.h
+
+/Users/todd.a.flanders/common/workspaces/C/CMake/Help/guide/tutorial/Step4/MathFunctions/mysqrt.cxx
+iostream
+-
+MathFunctions.h
+/Users/todd.a.flanders/common/workspaces/C/CMake/Help/guide/tutorial/Step4/MathFunctions/MathFunctions.h
+
