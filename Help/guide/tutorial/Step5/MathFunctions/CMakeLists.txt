@@ -9,3 +9,4 @@ target_include_directories(MathFunctions
 # install rules
 install(TARGETS MathFunctions DESTINATION lib)
 install(FILES MathFunctions.h DESTINATION include)
+
