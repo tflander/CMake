@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/todd.a.flanders/common/workspaces/C/CMake/Help/guide/tutorial/Step1/tutorial.cxx
+cmath
+-
+iostream
+-
+string
+-
+TutorialConfig.h
+/Users/todd.a.flanders/common/workspaces/C/CMake/Help/guide/tutorial/Step1/TutorialConfig.h
+
+TutorialConfig.h
+
