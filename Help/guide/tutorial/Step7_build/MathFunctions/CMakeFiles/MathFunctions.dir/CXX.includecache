@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/workdir/Step7/MathFunctions/MathFunctions.h
+
+/workdir/Step7/MathFunctions/mysqrt.cxx
+iostream
+-
+MathFunctions.h
+/workdir/Step7/MathFunctions/MathFunctions.h
+Table.h
+/workdir/Step7/MathFunctions/Table.h
+
+MathFunctions/Table.h
+
